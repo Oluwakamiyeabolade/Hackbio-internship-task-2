@@ -46,76 +46,32 @@ To visually display gene expression data, heatmaps were constructed with both se
 
 _Fig. 1: Heatmap with diverging color palette_
 
-_ _
 
-_ _
-
-<!--[if gte vml 1]><v:shape
- id="Picture_x0020_4" o:spid="_x0000_i1033" type="#_x0000_t75" style='width:468pt;
- height:230pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png"
-  o:title=""/>
-</v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)<!--[endif]-->
+![image](https://github.com/user-attachments/assets/3360147a-677e-402c-ae70-129bd0d64dd5)
 
 _Fig. 2: Heatmap with sequential color palette_
 
-_ _
 
-_ _
 
-_ _
-
-**Heatmap Visualization with Clustering Variants**
-
-By clustering the genes, samples, or both, the visualizations highlighted distinct groups of co-expressed genes and samples, aiding in the discovery of gene expression patterns that might correlate with specific biological or experimental settings. \
-[<!--[if gte vml 1]><v:shape id="Picture_x0020_24"
- o:spid="_x0000_i1032" type="#_x0000_t75" alt="Heatmap with Diverging Color Palette"
- href="https://github.com/isongjosiah/hack-bio/blob/main/stage2/diverging-palette.png"
- target="&quot;_blank&quot;" style='width:467.5pt;height:352.5pt;visibility:visible;
- mso-wrap-style:square' o:button="t">
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png"
-  o:title="Heatmap with Diverging Color Palette"/>
-</v:shape><![endif]--><!--[if !vml]-->![Heatmap with Diverging Color Palette](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)<!--[endif]-->](https://github.com/isongjosiah/hack-bio/blob/main/stage2/diverging-palette.png) _Fig. 1: Heatmap with diverging color palette_
-
-[<!--[if gte vml 1]><v:shape id="Picture_x0020_23"
- o:spid="_x0000_i1031" type="#_x0000_t75" alt="Heatmap with Sequential Color Palette"
- href="https://github.com/isongjosiah/hack-bio/blob/main/stage2/sequential-palette.png"
- target="&quot;_blank&quot;" style='width:467.5pt;height:352.5pt;visibility:visible;
- mso-wrap-style:square' o:button="t">
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png"
-  o:title="Heatmap with Sequential Color Palette"/>
-</v:shape><![endif]--><!--[if !vml]-->![Heatmap with Sequential Color Palette](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)<!--[endif]-->](https://github.com/isongjosiah/hack-bio/blob/main/stage2/sequential-palette.png) _Fig. 2: Heatmap with sequential color palette_
 
 **Heatmap Visualization with Clustering Variants**
 
 By clustering the genes, samples, or both, the visualizations highlighted distinct groups of co-expressed genes and samples, aiding in the discovery of gene expression patterns that might correlate with specific biological or experimental settings.
 
-[<!--[if gte vml 1]><v:shape id="Picture_x0020_22"
- o:spid="_x0000_i1030" type="#_x0000_t75" alt="Heatmap Clustered Genes (Rows) Only"
- href="https://github.com/isongjosiah/hack-bio/blob/main/stage2/clustered-gene-rows.png"
- target="&quot;_blank&quot;" style='width:467.5pt;height:352.5pt;visibility:visible;
- mso-wrap-style:square' o:button="t">
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png"
-  o:title="Heatmap Clustered Genes (Rows) Only"/>
-</v:shape><![endif]--><!--[if !vml]-->![Heatmap Clustered Genes (Rows) Only](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)<!--[endif]-->](https://github.com/isongjosiah/hack-bio/blob/main/stage2/clustered-gene-rows.png) _Fig. 3: Heatmap clustered genes(rows) only_
 
-[<!--[if gte vml 1]><v:shape id="Picture_x0020_21"
- o:spid="_x0000_i1029" type="#_x0000_t75" alt="Heatmap Clustered Samples (Columns) Only"
- href="https://github.com/isongjosiah/hack-bio/blob/main/stage2/clustered-samples.png"
- target="&quot;_blank&quot;" style='width:467.5pt;height:352.5pt;visibility:visible;
- mso-wrap-style:square' o:button="t">
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png"
-  o:title="Heatmap Clustered Samples (Columns) Only"/>
-</v:shape><![endif]--><!--[if !vml]-->![Heatmap Clustered Samples (Columns) Only](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)<!--[endif]-->](https://github.com/isongjosiah/hack-bio/blob/main/stage2/clustered-samples.png) _Fig. 4: Heatmap clustered samples(columns) only_
+ 
+ ![image](https://github.com/user-attachments/assets/0ba923ef-7134-4a2a-9edb-86d1f733976c)
 
-[<!--[if gte vml 1]><v:shape id="Picture_x0020_20"
- o:spid="_x0000_i1028" type="#_x0000_t75" alt="Heatmap Clustered Genes and Samples Together"
- href="https://github.com/isongjosiah/hack-bio/blob/main/stage2/clustered-gene-and-samples.png"
- target="&quot;_blank&quot;" style='width:467.5pt;height:352.5pt;visibility:visible;
- mso-wrap-style:square' o:button="t">
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image013.png"
-  o:title="Heatmap Clustered Genes and Samples Together"/>
-</v:shape><![endif]--><!--[if !vml]-->![Heatmap Clustered Genes and Samples Together](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)<!--[endif]-->](https://github.com/isongjosiah/hack-bio/blob/main/stage2/clustered-gene-and-samples.png) _Fig. 5: Heatmap clustered genes and samples together_
+ _Fig. 3: Heatmap clustered genes(rows) only_
+
+![image](https://github.com/user-attachments/assets/edf9fd33-64f1-46e4-bb18-b019c9ddfd04)
+
+ _Fig. 4: Heatmap clustered samples(columns) only_
+
+
+ ![image](https://github.com/user-attachments/assets/c1470ab4-55b6-40ca-9068-4935493edb7c)
+
+ _Fig. 5: Heatmap clustered genes and samples together_
 
 _ _
 
@@ -149,14 +105,8 @@ We carried out functional enrichment analysis on ShinyGO, and the following top 
 
 ** **
 
-<!--[if gte vml 1]><v:shape
- id="Picture_x0020_12" o:spid="_x0000_i1027" type="#_x0000_t75" alt="A graph with red and blue dots&#10;&#10;Description automatically generated"
- style='width:468pt;height:234pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png"
-  o:title="A graph with red and blue dots&#10;&#10;Description automatically generated"/>
-</v:shape><![endif]--><!--[if !vml]-->![A graph with red and blue dots
+![image](https://github.com/user-attachments/assets/1ed86432-f09e-4110-8ea8-170901ab831d)
 
-Description automatically generated](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)<!--[endif]-->****
 
 **_Fig. 6: Downregulated genes and fold enrichments_**
 
@@ -173,12 +123,9 @@ Description automatically generated](file:///C:/Users/racha/AppData/Local/Temp/m
 | 1.3E-02            | 1          | 47                | 121.7               | Pyruvate metabolism                       |
 | 1.3E-02            | 1          | 48                | 119.1               | Valine leucine and isoleucine degradation |
 
-<!--[if gte vml 1]><v:shape
- id="Picture_x0020_13" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:468pt;
- height:234pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image017.png"
-  o:title=""/>
-</v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)<!--[endif]-->
+
+
+![image](https://github.com/user-attachments/assets/06fb2ca3-2974-4e3a-b686-54558726115c)
 
 _Fig. 7: Upregulated genes and fold enrichments_
 
@@ -192,12 +139,8 @@ In this step, the biological process pathway was plotted using a lolliplot, with
 
  
 
-<!--[if gte vml 1]><v:shape
- id="Picture_x0020_14" o:spid="_x0000_i1025" type="#_x0000_t75" alt="Gene Count and Significance"
- style='width:468.5pt;height:270.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image019.png"
-  o:title="Gene Count and Significance"/>
-</v:shape><![endif]--><!--[if !vml]-->![Gene Count and Significance](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)<!--[endif]-->
+![image](https://github.com/user-attachments/assets/f8e15428-475b-4f2f-bea8-bf33104c0a19)
+
 
 _Fig. 8: Top 5 pathways by gene count and significance. The length of ech stem represents the number of genes associated with each pathway, and the size of each point reflects the significance of the pathway(scaled by the negative log10 of the p-value)_
 
