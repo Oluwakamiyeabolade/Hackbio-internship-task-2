@@ -42,34 +42,7 @@ We established cut-off values for fold change and p-values to subset the signifi
 
 To visually display gene expression data, heatmaps were constructed with both sequential and divergent color palettes. This highlighted the significance of color selection, as divergent palettes successfully highlighted extremes in gene expression (upregulated vs. downregulated), whereas sequential palettes were smoother, making it easier to trace progressive changes.
 
-<!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_i1034" type="#_x0000_t75"
- alt="A screenshot of a computer screen&#10;&#10;Description automatically generated"
- style='width:468pt;height:230pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
-  o:title="A screenshot of a computer screen&#10;&#10;Description automatically generated"/>
-</v:shape><![endif]--><!--[if !vml]-->![A screenshot of a computer screen
-
-Description automatically generated](file:///C:/Users/racha/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<!--[endif]-->
+![image](https://github.com/user-attachments/assets/dca19d5b-34b0-438a-bc95-10302c8e0f5f)
 
 _Fig. 1: Heatmap with diverging color palette_
 
