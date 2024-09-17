@@ -1,4 +1,4 @@
-**Exploring Gene Expression and Downstream Functional Enrichment Analysis of Glioblastoma Dataset
+**Gene Expression and Downstream Functional Enrichment Analysis of Glioblastoma Dataset
 **
 
 In this task, you will visualize and interpret a gene expression dataset to generate a heatmap and perform downstream functional enrichment analysis. This will help you understand and learn how to interpret patterns of gene expression and the biological significance of differentially expressed genes. The task involves data preprocessing, visualization, and interpretation of functional enrichment results.
